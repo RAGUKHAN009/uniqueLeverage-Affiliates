@@ -12,14 +12,14 @@ body {
 }
 
 body::-webkit-scrollbar {
-  width: 10px;
-  background: linear-gradient(to bottom, #CBE2FF, #7d8691);
+  width: 0px;
+/*   background: linear-gradient(to bottom, #CBE2FF, #7d8691); */
 }
 
-body::-webkit-scrollbar-thumb {
+/* body::-webkit-scrollbar-thumb {
   background: linear-gradient(to bottom, #1c64bd9a, #0353B6, #1c64bd9a);
   border-radius: 10px;
-}
+} */
 
 button {
   outline: none;
