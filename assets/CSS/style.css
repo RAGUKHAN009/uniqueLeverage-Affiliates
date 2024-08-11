@@ -953,6 +953,12 @@ a {
   color: #FFFFFF;
 }
 
+
+.TCART {
+  transition: 0.4s ease all;
+}
+
 .TCART:hover {
-  background-color: #CBE2FF;
+  
+  background-color: #cbe2ff62;
 }
