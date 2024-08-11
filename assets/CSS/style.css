@@ -12,14 +12,21 @@ body {
 }
 
 body::-webkit-scrollbar {
-  width: 0px;
-/*   background: linear-gradient(to bottom, #CBE2FF, #7d8691); */
+  width: 10px;
+  background: linear-gradient(to bottom, #CBE2FF, #7d8691);
+  
 }
 
-/* body::-webkit-scrollbar-thumb {
+body::-webkit-scrollbar-thumb {
   background: linear-gradient(to bottom, #1c64bd9a, #0353B6, #1c64bd9a);
   border-radius: 10px;
-} */
+}
+
+body::-webkit-scrollbar-button:start {
+  height: 80px;
+  width: 10px;
+  background-color: var(--blue);
+}
 
 button {
   outline: none;
@@ -951,8 +958,8 @@ a {
   line-height: 16.94px;
 
   color: #FFFFFF;
-}
 
+}
 
 .TCART {
   transition: 0.4s ease all;
