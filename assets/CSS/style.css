@@ -269,7 +269,7 @@ a {
 
 .MainHero {
   width: 100%;
-  height: auto;
+  height: calc(100vh - 70px);
 
   display: flex;
   align-items: center;
