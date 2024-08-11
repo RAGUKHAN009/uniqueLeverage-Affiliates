@@ -1,0 +1,129 @@
+@media (max-width: 1287px) {
+    .mainHeroAlign {
+        width: calc(100% - 200px);
+        justify-content: center;
+        gap: 60px;
+
+
+    }
+
+    .secondC12 {
+        margin-left: 38px;
+        margin-right: 38px;
+        width: calc(100% - 76px);
+        justify-content: center;
+        gap: 60px;
+    }
+
+    .thirdC12 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .thirdC12CartsCont {
+        width: calc(100% - 200px);
+    }
+
+    .FourthC12 {
+        width: calc(100% - 260px);
+        margin-left: 130px;
+        margin-right: 130px;
+    }
+
+    .secondC122 {
+        width: calc(100% - 527px);
+        height: auto;
+    }
+
+    .headerAlign {
+        width: calc(100% - 100px - 64px);
+    }
+
+}
+
+
+@media (max-width: 1164px) {
+    .secondC122 {
+        width: calc(100% - 527px);
+    }
+
+
+}
+
+@media (max-width: 1018px) {
+    .heroLeft {
+        width: 387px;
+    }
+
+    .heroRight {
+        width: calc(100% - 447px);
+    }
+
+    .FooterNavs {
+        grid-template-columns: 108px 169px 190px 280px;
+        gap: 32px;
+    }
+}
+
+@media (max-width: 916px) {
+
+    .FooterC11 {
+        width: 100%;
+        height: auto;
+    }
+
+    .FooterC12 {
+
+        margin-top: 60px;
+        padding-bottom: 60px;
+
+    }
+
+    .FooterNavs {
+        grid-template-columns: repeat(3, 1fr);
+
+    }
+}
+
+@media (max-width: 900px) {
+    .MainHero {
+        min-height: calc(100vh - 70px);
+        height: auto;
+    }
+
+    .mainHeroAlign {
+        flex-direction: column;
+        width: 497px;
+    }
+
+    .heroRight,
+    .heroLeft {
+        width: 100%;
+        height: auto;
+    }
+
+    .secondC12 {
+        flex-direction: column-reverse;
+    }
+
+    .secondC122 {
+        width: 497px;
+    }
+
+}
+
+@media (max-width: 801px) {
+    .FooterNavs {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 526px) {
+    .HeroHeader {
+        display: none;
+    }
+
+    .HeroHeaderMob {
+        display: block;
+    }
+}
