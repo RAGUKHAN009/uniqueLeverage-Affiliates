@@ -1,9 +1,0 @@
-@media (max-width: 526px) {
-    .HeroHeader{
-        display: none;
-    }
-
-    .HeroHeaderMob {
-        display: block;
-    }
-}
