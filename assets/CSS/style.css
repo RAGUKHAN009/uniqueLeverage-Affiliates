@@ -245,7 +245,7 @@ a {
   height: calc(100vh - 72px);
 
   position: fixed;
-  z-index: 2;
+  z-index: 5;
   top: calc(-100vh - 72px);
 
   border-radius: 50%;
@@ -256,7 +256,7 @@ a {
   height: calc(100vh - 72px);
 
   position: fixed;
-  z-index: 2;
+  z-index: 5;
   top: 72px;
 
   border-radius: 0px;
