@@ -1,0 +1,392 @@
+@media (max-width: 1287px) {
+    .mainHeroAlign {
+        width: calc(100% - 200px);
+        justify-content: center;
+        gap: 60px;
+
+
+    }
+
+    .secondC12 {
+        margin-left: 38px;
+        margin-right: 38px;
+        width: calc(100% - 76px);
+        justify-content: center;
+        gap: 60px;
+    }
+
+    .thirdC12 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .thirdC12CartsCont {
+        width: calc(100% - 200px);
+    }
+
+    .FourthC12 {
+        width: calc(100% - 200px);
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+
+    .secondC122 {
+        width: calc(100% - 527px);
+        height: auto;
+    }
+
+    .headerAlign {
+        width: calc(100% - 100px - 64px);
+    }
+
+}
+
+@media (max-width: 1164px) {
+    .secondC122 {
+        width: calc(100% - 527px);
+    }
+
+
+}
+
+@media (max-width: 1018px) {
+    .heroLeft {
+        width: 387px;
+    }
+
+    .heroRight {
+        width: calc(100% - 447px);
+    }
+
+    .FooterNavs {
+        grid-template-columns: 108px 169px 190px 280px;
+        gap: 32px;
+    }
+}
+
+@media (max-width: 972px) {
+
+    .FooterC11 {
+        width: 100%;
+        height: auto;
+    }
+
+    .FooterC12 {
+        width: calc(100% - 88px - 88px);
+        margin-top: 60px;
+        padding-bottom: 60px;
+
+    }
+
+    .FooterNavs {
+        grid-template-columns: repeat(3, 200px);
+
+    }
+}
+
+@media (max-width: 900px) {
+    .MainHero {
+        min-height: calc(100vh - 70px);
+        height: auto;
+    }
+
+    .mainHeroAlign {
+        flex-direction: column;
+        width: 497px;
+    }
+
+    .heroRight,
+    .heroLeft {
+        width: 100%;
+        height: auto;
+    }
+
+    .secondC12 {
+        flex-direction: column-reverse;
+    }
+
+    .secondC122 {
+        width: 497px;
+    }
+
+}
+
+@media (max-width: 801px) {
+    .FooterNavs {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .mainHeroAlign,
+    .secondC12 {
+        margin-left: 10%;
+        flex-direction: column;
+        width: 80%;
+        margin-right: 10%;
+    }
+}
+
+@media (max-width: 671px) {
+
+    .FourthC12,
+    .thirdC12CartsCont {
+        width: calc(100% - 100px);
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
+
+@media (max-width: 601px) {
+    .HeroHeader {
+        display: none;
+    }
+
+    .HeroHeaderMob {
+        display: block;
+        box-shadow: 0px 3px 20px 0px #cae0fd14;
+    }
+
+    .footerCoppy {
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        flex-direction: column;
+    }
+
+    .FooterNavs {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .footerCartZoom {
+        grid-row: 3/4;
+        grid-column: 1/2;
+    }
+
+    .CopyRightText {
+        width: 100%;
+        text-align: center;
+    }
+
+    .CopRightNavs {
+        width: 100%;
+        justify-content: center;
+        gap: 40px;
+    }
+
+    .CopRightNavs {
+        margin-top: 20px;
+    }
+
+    .secondC121,
+    .secondC122 {
+        width: 100%;
+    }
+
+    .cart1 {
+        width: 100%;
+    }
+
+    .cart2 {
+        width: 93.5%;
+    }
+
+    .cart3 {
+        width: 100%;
+    }
+
+    .cart4 {
+        width: 90.3%;
+    }
+
+    .FourthC12,
+    .thirdC12CartsCont {
+        width: calc(100% - 60px);
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    .thirdC12 {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .footerImgCont {
+        width: 180px;
+        height: auto;
+        overflow: hidden;
+    }
+}
+
+@media (max-width: 527px) {
+
+    .heroLeft {
+        text-align: center;
+    }
+
+    .heroLefth1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .secondC12 {
+        flex-direction: column-reverse;
+    }
+
+    .thirdC11 {
+        margin-top: 80px;
+    }
+
+    .thirdC12CartsCont {
+        grid-template-columns: 1fr;
+    }
+
+    .imgTCart {
+        background-color: #CBE2FF;
+    }
+
+    .MI {
+        display: block;
+    }
+
+    .LI {
+        display: none;
+    }
+
+    .heroLefth1 h1 {
+        font-size: 40px;
+    }
+
+    .heroLefth1::before {
+        bottom: 10px;
+    }
+
+    .heroLeft p {
+        font-size: 14.16px;
+    }
+
+    .heroButtonsCont {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .secondC122 h2 {
+        font-size: 24.88px;
+    }
+
+    .secondC122 span h6 {
+        font-size: 14.02px;
+    }
+
+    .secondC122 span h5 {
+        font-size: 14.02px;
+    }
+
+    .cart {
+        font-size: 14px;
+        font-weight: 400;
+        padding-left: 20px;
+    }
+
+    .thirdC12 h1 {
+        font-size: 24.88px;
+    }
+
+    .TCART h2 {
+        font-size: 17.69px;
+    }
+
+    .TCART P {
+        font-size: 14.2px;
+    }
+
+    .FourthC12 h1 {
+        font-size: 24.88px;
+        margin-top: 20px;
+        line-height: 40px;
+    }
+
+    .FourthC12 {
+        width: calc(100% - 80px);
+        margin-left: 40px;
+        margin-right: 40px;
+        height: auto;
+        text-align: center;
+    }
+
+    .FourthC12 p {
+        font-size: 14.2px;
+        width: 80%;
+    }
+
+    .FourthC12 span {
+        font-size: 14.2px;
+        padding-bottom: 25px;
+        margin-top: 10px;
+    }
+
+    .FourthC12 button {
+        margin-top: 30px;
+    }
+
+    .FooterC12 {
+        width: calc(100% - 40px - 40px);
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .FooterNavs {
+        justify-content: normal;
+    }
+
+    .FooterNavs {
+        grid-template-columns: repeat(2, 133px);
+    }
+
+    .CopyRightText p {
+        font-size: 12px;
+    }
+
+    .CopRightNavs a {
+        font-size: 10px;
+    }
+
+    .footerCart h1 {
+        font-weight: 700;
+        font-size: 14.2px;
+    }
+
+    .footerCart p {
+        font-size: 14.2px;
+    }
+
+
+
+
+
+
+}
+
+@media (max-width: 397px) {
+    .hideOnPhone {
+        display: none;
+    }
+
+    .heroLeft p {
+        margin-top: 60px;
+    }
+
+    .heroLefth1::before {
+        bottom: 60px;
+    }
+
+    .FooterC12 {
+        width: calc(100% - 20px);
+    }
+
+    .FooterNavs {
+        grid-template-columns: repeat(2, 110px);
+    }
+}
