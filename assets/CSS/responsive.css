@@ -40,7 +40,6 @@
     .headerAlign {
         width: calc(100% - 100px - 64px);
     }
-
 }
 
 @media (max-width: 1164px) {
