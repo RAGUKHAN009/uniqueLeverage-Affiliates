@@ -1,0 +1,701 @@
+@media (min-width: 1920px) {
+
+    .mainContend {
+        top: 0px;
+    }
+
+    body {
+        display: flex;
+        justify-content: center;
+    }
+
+    .headerAlign {
+        max-width: 1440px;
+        /* width: 100%; */
+        margin-left: 0;
+    }
+
+    .HeroHeader {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .mainHeroAlign {
+        width: 1200px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .secondC11,
+    .thirdC11,
+    .FourthC11 {
+        max-width: 1200px;
+    }
+
+    .SecondS {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .FooterC12 {
+        width: 1200px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+
+    .heroRight {
+        width: 604.01px;
+    }
+
+    .heroLeft {
+        width: 556.92px;
+    }
+
+    .heroLefth1 h1 {
+        font-size: 70px;
+    }
+
+    .heroLeft {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .heroLeft span {
+        font-size: 30.41px;
+    }
+
+    .heroLefth1 {
+        height: 160px;
+    }
+
+    .heroLeft p {
+        font-size: 27.16px;
+        margin-top: 40px;
+    }
+
+    .heroButtonsCont {
+        height: 75px;
+        width: 540.07px;
+    }
+
+    .herobut1 {
+        width: 240.57px;
+    }
+
+    .herobut2 {
+        width: 220.57px;
+    }
+
+    .heroButtonsCont button a {
+        font-size: 20.47px;
+    }
+
+    .heroLefth1::before {
+        width: 434px;
+    }
+
+    .secondC122 h2,
+    .FourthC12 h1,
+    .thirdC12 h1 {
+        font-size: 39.88px;
+    }
+
+    .secondC122 span h6 {
+        margin-top: 15px;
+        font-size: 27.16px;
+    }
+
+    .secondC122 span h5 {
+        font-size: 27.16px;
+    }
+
+    .secondC122 {
+        width: 523.07px;
+        height: auto;
+    }
+
+    .cart {
+        font-size: 25px;
+        padding-left: 30px;
+    }
+
+    .TCART h2 {
+        font-size: 24.69px;
+    }
+
+    .TCART P {
+        font-size: 20.2px;
+    }
+
+    .FourthC12 p {
+        width: 590px;
+        font-size: 27.16px;
+        margin-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .FourthC12 button {
+        width: 250.57px;
+        height: 80px;
+    }
+
+    .FourthC12 button a {
+        font-size: 20.3px;
+    }
+
+    .FourthC12 span {
+        margin-top: 21px;
+        font-weight: 400;
+        font-size: 26px;
+    }
+
+    .footerCart h1 {
+        font-size: 20px;
+    }
+
+    .footerCart p {
+        font-size: 19px;
+    }
+
+    .zoomButtons h1 {
+        font-size: 19px;
+    }
+
+    .zoomText h1 {
+        font-size: 16px;
+    }
+
+    .zoomText p {
+        font-size: 14px;
+        margin-top: 6px;
+    }
+
+    .CopyRightText {
+        width: 646px;
+    }
+
+    .CopyRightText p {
+        font-size: 20px;
+    }
+
+    .CopRightNavs {
+        width: 400px;
+    }
+
+    .CopRightNavs a {
+        font-weight: 400;
+        font-size: 20px;
+    }
+
+    .headerleft {
+        width: 500px;
+    }
+
+    .headerleft img {
+        width: 349.06px;
+        height: 59.91px;
+    }
+
+    .headerleft {
+        width: 600px;
+    }
+
+
+    .PricingBut {
+        font-size: 25.73px;
+        width: 160px;
+    }
+
+    .FourthC12 button a {
+        font-size: 23.73px;
+    }
+
+    .headerRight {
+        width: auto;
+    }
+
+    .headerButton1 {
+        width: 140.63px;
+        margin-left: 60px;
+        font-size: 25.73px;
+    }
+
+    .headerButton2 {
+        width: 140.63px;
+        margin-left: 60px;
+        font-size: 25.73px;
+    }
+
+    .secondC121 {
+        width: 600px;
+        height: 280px;
+    }
+
+    .cart {
+        height: 70px;
+    }
+
+    .cart2 {
+        top: calc(70px);
+        width: 540px;
+    }
+
+    .cart3 {
+        top: calc(70px + 70px);
+    }
+
+    .cart4 {
+        top: calc(70px + 70px + 70px);
+        width: 510px;
+    }
+}
+
+@media (min-width: 1700px) {
+
+    body {
+        display: flex;
+        justify-content: center;
+    }
+
+    .headerAlign {
+        max-width: 1440px;
+        /* width: 100%; */
+        margin-left: 0;
+    }
+
+    .HeroHeader {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .mainHeroAlign {
+        width: 1200px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .secondC11,
+    .thirdC11,
+    .FourthC11 {
+        max-width: 1200px;
+    }
+
+    .SecondS {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .FooterC12 {
+        width: 1200px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+
+}
+
+@media (max-width: 1287px) {
+    .mainHeroAlign {
+        width: calc(100% - 200px);
+        justify-content: center;
+        gap: 60px;
+
+
+    }
+
+    .secondC12 {
+        margin-left: 38px;
+        margin-right: 38px;
+        width: calc(100% - 76px);
+        justify-content: center;
+        gap: 60px;
+    }
+
+    .thirdC12 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .thirdC12CartsCont {
+        width: calc(100% - 200px);
+    }
+
+    .FourthC12 {
+        width: calc(100% - 200px);
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+
+    .secondC122 {
+        width: calc(100% - 527px);
+        height: auto;
+    }
+
+    .headerAlign {
+        width: calc(100% - 100px - 64px);
+    }
+
+}
+
+@media (max-width: 1164px) {
+    .secondC122 {
+        width: calc(100% - 527px);
+    }
+
+
+}
+
+@media (max-width: 1018px) {
+    .heroLeft {
+        width: 387px;
+    }
+
+    .heroRight {
+        width: calc(100% - 447px);
+    }
+
+    .FooterNavs {
+        grid-template-columns: 108px 169px 190px 280px;
+        gap: 32px;
+    }
+}
+
+@media (max-width: 972px) {
+
+    .FooterC11 {
+        width: 100%;
+        height: auto;
+    }
+
+    .FooterC12 {
+        width: calc(100% - 88px - 88px);
+        margin-top: 60px;
+        padding-bottom: 60px;
+
+    }
+
+    .FooterNavs {
+        grid-template-columns: repeat(3, 200px);
+
+    }
+}
+
+@media (max-width: 900px) {
+    .MainHero {
+        min-height: calc(100vh - 70px);
+        height: auto;
+    }
+
+    .mainHeroAlign {
+        flex-direction: column;
+        width: 497px;
+    }
+
+    .heroRight,
+    .heroLeft {
+        width: 100%;
+        height: auto;
+    }
+
+    .secondC12 {
+        flex-direction: column-reverse;
+    }
+
+    .secondC122 {
+        width: 497px;
+    }
+
+}
+
+@media (max-width: 801px) {
+    .FooterNavs {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .mainHeroAlign,
+    .secondC12 {
+        margin-left: 10%;
+        flex-direction: column;
+        width: 80%;
+        margin-right: 10%;
+    }
+}
+
+@media (max-width: 671px) {
+
+    .FourthC12,
+    .thirdC12CartsCont {
+        width: calc(100% - 100px);
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
+
+@media (max-width: 601px) {
+    .HeroHeader {
+        display: none;
+    }
+
+    .HeroHeaderMob {
+        display: block;
+        box-shadow: 0px 3px 20px 0px #cae0fd14;
+    }
+
+    .mainContend {
+        top: 10px;
+    }
+
+    .mainHeroAlign {
+        gap: 0px;
+    }
+
+    .footerCoppy {
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        flex-direction: column;
+    }
+
+    .FooterNavs {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .footerCartZoom {
+        grid-row: 3/4;
+        grid-column: 1/2;
+    }
+
+    .CopyRightText {
+        width: 100%;
+        text-align: center;
+    }
+
+    .CopRightNavs {
+        width: 100%;
+        justify-content: center;
+        gap: 40px;
+    }
+
+    .CopRightNavs {
+        margin-top: 20px;
+    }
+
+    .secondC121,
+    .secondC122 {
+        width: 100%;
+    }
+
+    .cart1 {
+        width: 100%;
+    }
+
+    .cart2 {
+        width: 93.5%;
+    }
+
+    .cart3 {
+        width: 100%;
+    }
+
+    .cart4 {
+        width: 90.3%;
+    }
+
+    .FourthC12,
+    .thirdC12CartsCont {
+        width: calc(100% - 60px);
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    .thirdC12 {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .footerImgCont {
+        width: 180px;
+        height: auto;
+        overflow: hidden;
+    }
+}
+
+@media (max-width: 527px) {
+
+    .heroLeft {
+        text-align: center;
+    }
+
+    .heroLefth1 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .secondC12 {
+        flex-direction: column-reverse;
+    }
+
+    .thirdC11 {
+        margin-top: 80px;
+    }
+
+    .thirdC12CartsCont {
+        grid-template-columns: 1fr;
+    }
+
+    .imgTCart {
+        background-color: #CBE2FF;
+    }
+
+    .MI {
+        display: block;
+    }
+
+    .LI {
+        display: none;
+    }
+
+    .heroLefth1 h1 {
+        font-size: 40px;
+    }
+
+    .heroLefth1::before {
+        bottom: 10px;
+    }
+
+    .heroLeft p {
+        font-size: 14.16px;
+    }
+
+    .heroButtonsCont {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .secondC122 h2 {
+        font-size: 24.88px;
+    }
+
+    .secondC122 span h6 {
+        font-size: 14.02px;
+    }
+
+    .secondC122 span h5 {
+        font-size: 14.02px;
+    }
+
+    .cart {
+        font-size: 14px;
+        font-weight: 400;
+        padding-left: 20px;
+    }
+
+    .thirdC12 h1 {
+        font-size: 24.88px;
+    }
+
+    .TCART h2 {
+        font-size: 17.69px;
+    }
+
+    .TCART P {
+        font-size: 14.2px;
+    }
+
+    .FourthC12 h1 {
+        font-size: 24.88px;
+        margin-top: 20px;
+        line-height: 40px;
+    }
+
+    .FourthC12 {
+        width: calc(100% - 80px);
+        margin-left: 40px;
+        margin-right: 40px;
+        height: auto;
+        text-align: center;
+    }
+
+    .FourthC12 p {
+        font-size: 14.2px;
+        width: 80%;
+    }
+
+    .FourthC12 span {
+        font-size: 14.2px;
+        padding-bottom: 25px;
+        margin-top: 10px;
+    }
+
+    .FourthC12 button {
+        margin-top: 30px;
+    }
+
+    .FooterC12 {
+        width: calc(100% - 40px - 40px);
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .FooterNavs {
+        justify-content: normal;
+    }
+
+    .FooterNavs {
+        grid-template-columns: repeat(2, 133px);
+    }
+
+    .CopyRightText p {
+        font-size: 12px;
+    }
+
+    .CopRightNavs a {
+        font-size: 10px;
+    }
+
+    .footerCart h1 {
+        font-weight: 700;
+        font-size: 14.2px;
+    }
+
+    .footerCart p {
+        font-size: 14.2px;
+    }
+
+
+
+
+
+
+}
+
+@media (max-width: 397px) {
+    .hideOnPhone {
+        display: none;
+    }
+
+    .heroLeft p {
+        margin-top: 60px;
+    }
+
+    .heroLefth1::before {
+        bottom: 60px;
+    }
+
+    .FooterC12 {
+        width: calc(100% - 20px);
+    }
+
+    .FooterNavs {
+        grid-template-columns: repeat(2, 110px);
+    }
+}
